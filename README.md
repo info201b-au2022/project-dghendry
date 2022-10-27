@@ -3,6 +3,10 @@
 
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md) 
 
+Working on the file.  A okay!!
+
+Still working on the project ...:w
+
 
 |Project Directories | Brief Description|
 |---------------| -----------------|
